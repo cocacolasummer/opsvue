@@ -1,4 +1,4 @@
-  <template>
+﻿  <template>
 <el-container style="height: 100%;">
   <el-aside width="240px" style="background-color: rgb(238, 241, 246);height:100%;">
     <el-menu :default-openeds="['1']" style="height:100%">
@@ -77,5 +77,5 @@
 </el-container>
   </template>
   <script src="./shared.js"></script>
-  <style link="./shared.scss"></style>
+  <style link="./shared.css"></style>
 

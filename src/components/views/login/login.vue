@@ -1,4 +1,4 @@
-  <template>
+﻿  <template>
 <main class="main">
 <div class="login">
 <p><img style="width:100px;height: 50px;margin-top: -5px" src="../../../assets/images/logo10.png"> | OPS管理系统</p>
@@ -17,4 +17,4 @@
 </main>
   </template>
   <script src="./login.js"></script>
-  <style lang="scss" scoped src="./login.scss"></style>
+  <style lang="scss" scoped src="./login.css"></style>
